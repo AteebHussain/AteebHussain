@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React.js, Firebase, Next.js, SCSS, Less and more.<br>👯 I’m looking to collaborate on SaaS/PaaS-type projects.<br>🤝 I’m looking for help with backend stuff.<br>🌱 I’m currently learning ML and DevOps.<br>⚡ Fun fact the first computer bug.. was a real bug lol.
+🔭 I’m currently working on React.js, Firebase, Next.js, SCSS, Less and more.<br>👯 I’m looking to collaborate on SaaS/PaaS-type projects.<br>🤝 I’m looking for help with backend stuff.<br>🌱 I’m currently learning ML and DevOps.<br>⚡ Fun fact the first computer bug.. was a real bug loooooooooool.
 
 
 ## 🌐 Socials:
